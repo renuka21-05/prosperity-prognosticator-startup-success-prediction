@@ -1,7 +1,8 @@
+streamlit==1.19.0
 pandas
 numpy
 scikit-learn
-matplotlib
-seaborn
 joblib
-streamlit
+altair==4.2.0
+seaborn
+matplotlib
